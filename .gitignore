@@ -1,0 +1,52 @@
+# Dependency directories
+node_modules/
+
+# Environment configuration files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Hardhat build directories
+build/
+cache/
+artifacts/
+
+# TypeChain generated files
+typechain/
+typechain-types/
+
+# Solidity coverage files
+coverage/
+coverage.json
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Yarn
+yarn-error.log
+.yarn
+.pnp.js
+.pnp.cjs
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# npm
+package-lock.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
