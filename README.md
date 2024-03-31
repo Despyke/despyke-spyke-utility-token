@@ -20,13 +20,13 @@ Ensure you have [Node.js](https://nodejs.org/) (>=12.x) installed on your system
 1. Clone this repository to your local machine:
 
     ```shell
-    git clone <repository-url>
+    git clone https://github.com/Despyke/despyke-utility-token
     ```
 
 2. Navigate to the project directory:
 
     ```shell
-    cd despyke-spyke-utility-token
+    cd '/../../../despyke-utility-token'
     ```
 
 3. Install the dependencies:
