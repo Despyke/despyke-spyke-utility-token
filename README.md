@@ -13,46 +13,46 @@
 
 ## New planned features
 
-#### Transition to Proof of Stake (PoS) for Minting
+### 1. Transition to proof of stake (PoS) for minting
 
 In alignment with our commitment to sustainability and scalability, future minting operations within the Despyke ecosystem will transition to a **Proof of Stake (PoS)** mechanism. This strategic move is guided by several core principles that align with our broader goals:
 
-#### Energy efficiency
+#### 1.A. Energy efficiency
 
 - **PoS significantly reduces energy consumption** compared to the traditional Proof of Work (PoW) mechanism, aligning with our strong commitment to sustainability and environmental responsibility.
 
-#### Enhanced scalability and speed
+#### 1.B. Enhanced scalability and speed
 
 - PoS enables **faster transaction speeds and enhanced scalability**. This improvement directly impacts the overall efficiency of our minting services, making the process smoother for users and reducing transaction backlog during high-demand periods.
 
-#### Security and decentralization
+#### 1.C. Security and decentralization
 
 - A core principle of our transition to PoS is maintaining robust security mechanisms while also being conscious of avoiding centralization. We aim to foster **a more inclusive and secure network**, ensuring that our platform remains resilient against attacks and equitable in participation opportunities.
 
-#### Minting service impact
+#### 1.D. Minting service impact
 
 - The transition to PoS is expected to **provide a smoother experience for our minting services**, thanks to faster transaction processing times and more cost-effective transactions. This change will benefit users by improving the responsiveness and accessibility of our services.
 
 We believe that transitioning to a Proof of Stake mechanism for future minting operations not only aligns with our commitment to sustainability and scalability but also sets a new standard for responsible blockchain development. Stay tuned for further updates as we make progress on this exciting transition.
 
-### Enhanced security features
+### 2. Enhanced security features
 
 - **ERC20Pausable**: Introduces the ability to pause and unpause token transfers, enhancing security and control in response to unforeseen circumstances.
 - **ERC20Burnable**: Allows tokens to be "burned," reducing the overall supply and adding a deflationary mechanism to the token economics.
 
-### Immutable consent logs
+### 3. Immutable consent logs
 
 - Transparently and immutably records every consent action by a user, with a timestamp for data integrity and non-repudiation.
 
-### Anonymity and privacy
+### 4. Anonymity and privacy
 
 - Utilizes Ethereum addresses as anonymized IDs, maintaining user privacy while ensuring traceability and accountability of consents.
 
-### Regulatory compliance
+### 5. Regulatory compliance
 
 - Designed with adaptability in mind to comply with global privacy laws and regulations, including GDPR, reinforcing our commitment to user rights and privacy.
 
-### Integration with Despyke ecosystem
+### 6. Integration with Despyke ecosystem
 
 - Seamlessly integrates with Despyke's broader ecosystem, including a token rewards system that aligns user consent for data sharing with token distribution and rewards.
 
