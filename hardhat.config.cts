@@ -22,6 +22,11 @@ const config: HardhatUserConfig = {
       accounts: accounts,
       chainId: 17000, // Holešky Chain ID
     },
+    vanar: { // Add a new network entry for Vanar
+      url: process.env.VANAR_RPC_URL || "https://rpc-vanguard.vanarchain.com",
+      accounts: accounts,
+      chainId: 78600, // Vanar Chain ID
+    },
     // You can add more network configurations here
   },
   etherscan: {
