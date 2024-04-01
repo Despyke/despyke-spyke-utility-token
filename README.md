@@ -13,32 +13,15 @@
 
 ## New planned features
 
-### 1. Transition to proof of stake (PoS) for minting
-
-In alignment with our commitment to sustainability and scalability, future minting operations within the Despyke ecosystem will transition to a **Proof of Stake (PoS)** mechanism. This strategic move is guided by several core principles that align with our broader goals:
-
-#### 1.A. Energy efficiency
-
-- **PoS significantly reduces energy consumption** compared to the traditional Proof of Work (PoW) mechanism, aligning with our strong commitment to sustainability and environmental responsibility.
-
-#### 1.B. Enhanced scalability and speed
-
-- PoS enables **faster transaction speeds and enhanced scalability**. This improvement directly impacts the overall efficiency of our minting services, making the process smoother for users and reducing transaction backlog during high-demand periods.
-
-#### 1.C. Security and decentralization
-
-- A core principle of our transition to PoS is maintaining robust security mechanisms while also being conscious of avoiding centralization. We aim to foster **a more inclusive and secure network**, ensuring that our platform remains resilient against attacks and equitable in participation opportunities.
-
-#### 1.D. Minting service impact
-
-- The transition to PoS is expected to **provide a smoother experience for our minting services**, thanks to faster transaction processing times and more cost-effective transactions. This change will benefit users by improving the responsiveness and accessibility of our services.
-
-We believe that transitioning to a Proof of Stake mechanism for future minting operations not only aligns with our commitment to sustainability and scalability but also sets a new standard for responsible blockchain development. Stay tuned for further updates as we make progress on this exciting transition.
-
-### 2. Security features
+### 1. Security features
 
 - **ERC20Pausable**: Introduces the ability to pause and unpause token transfers, enhancing security and control in response to unforeseen circumstances.
-- **ERC20Burnable**: Allows tokens to be "burned," reducing the overall supply and adding a deflationary mechanism to the token economics.
+
+### 2. Deflationary mechanisms
+- **ERC20Burnable**: Allows tokens to be burned, reducing the overall supply and adding a deflationary mechanism to the tokenomics.
+
+### 3. Staking 
+- Allows tokens to be staked for rewards, whilst keeping the value ecosystem deflationary.
 
 ### 3. Immutable consent logs
 
