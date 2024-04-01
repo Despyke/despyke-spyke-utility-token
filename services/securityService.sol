@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Pausable.sol";
 import "@openzeppelin/contracts/security/Pausable.sol";
 
