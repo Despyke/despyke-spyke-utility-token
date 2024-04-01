@@ -4,7 +4,7 @@
 
 ## Features
 
-- **Spyke Token Contract**: An ERC-20 compliant utility token for the Despyke ecosystem, featuring advanced functionalities like burning and pausing.
+- **Spyke Token Contract**: An ERC-20 compliant utility token for the Despyke ecosystem, featuring advanced functionalities like storing user meta data, consent logs, burning and pausing.
 - **Comprehensive Test Suite**: Ensures contract functionality and security.
 - **Deployment Scripts**: For deploying the token contract to Ethereum networks.
 - **Hardhat Ignition Module**: Simplifies deployment and interaction with the contracts.
@@ -35,7 +35,7 @@ In alignment with our commitment to sustainability and scalability, future minti
 
 We believe that transitioning to a Proof of Stake mechanism for future minting operations not only aligns with our commitment to sustainability and scalability but also sets a new standard for responsible blockchain development. Stay tuned for further updates as we make progress on this exciting transition.
 
-### 2. Enhanced security features
+### 2. Security features
 
 - **ERC20Pausable**: Introduces the ability to pause and unpause token transfers, enhancing security and control in response to unforeseen circumstances.
 - **ERC20Burnable**: Allows tokens to be "burned," reducing the overall supply and adding a deflationary mechanism to the token economics.
@@ -48,11 +48,7 @@ We believe that transitioning to a Proof of Stake mechanism for future minting o
 
 - Utilizes Ethereum addresses as anonymized IDs, maintaining user privacy while ensuring traceability and accountability of consents.
 
-### 5. Regulatory compliance
-
-- Designed with adaptability in mind to comply with global privacy laws and regulations, including GDPR, reinforcing our commitment to user rights and privacy.
-
-### 6. Integration with Despyke ecosystem
+### 5. Token reward system
 
 - Seamlessly integrates with Despyke's broader ecosystem, including a token rewards system that aligns user consent for data sharing with token distribution and rewards.
 
