@@ -13,23 +13,23 @@
 
 ## New planned features
 
-## Transition to Proof of Stake (PoS) for Minting
+### Transition to Proof of Stake (PoS) for Minting
 
 In alignment with our commitment to sustainability and scalability, future minting operations within the Despyke ecosystem will transition to a **Proof of Stake (PoS)** mechanism. This strategic move is guided by several core principles that align with our broader goals:
 
-## Energy efficiency
+### Energy efficiency
 
 - **PoS significantly reduces energy consumption** compared to the traditional Proof of Work (PoW) mechanism, aligning with our strong commitment to sustainability and environmental responsibility.
 
-## Enhanced scalability and speed
+### Enhanced scalability and speed
 
 - PoS enables **faster transaction speeds and enhanced scalability**. This improvement directly impacts the overall efficiency of our minting services, making the process smoother for users and reducing transaction backlog during high-demand periods.
 
-## Security and decentralization
+### Security and decentralization
 
 - A core principle of our transition to PoS is maintaining robust security mechanisms while also being conscious of avoiding centralization. We aim to foster **a more inclusive and secure network**, ensuring that our platform remains resilient against attacks and equitable in participation opportunities.
 
-## Minting service impact
+### Minting service impact
 
 - The transition to PoS is expected to **provide a smoother experience for our minting services**, thanks to faster transaction processing times and more cost-effective transactions. This change will benefit users by improving the responsiveness and accessibility of our services.
 
