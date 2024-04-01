@@ -1,6 +1,6 @@
 # Despyke's Spyke utility token project
 
- This repository contains the development environment for the Spyke Utility Token, leveraging the Hardhat framework for Ethereum. Our project includes smart contracts for the Spyke token, unit tests for ensuring contract integrity, and deployment scripts for public networks.
+ This repository contains the development environment for the Spyke utility token, leveraging the Hardhat framework for Ethereum. Our project includes smart contracts for the Spyke token, unit tests for ensuring contract integrity, and deployment scripts for public networks.
 
 ## Features
 
