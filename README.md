@@ -13,7 +13,7 @@
 
 ## New planned features
 
-# Transition to Proof of Stake (PoS) for Minting
+## Transition to Proof of Stake (PoS) for Minting
 
 In alignment with our commitment to sustainability and scalability, future minting operations within the Despyke ecosystem will transition to a **Proof of Stake (PoS)** mechanism. This strategic move is guided by several core principles that align with our broader goals:
 
