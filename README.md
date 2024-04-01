@@ -11,52 +11,52 @@
 - **ConsentManager Contract**: Manages user consent logs on the blockchain, enhancing user privacy and ensuring transparent, immutable consent records.
 - **Advanced Vesting Service**: A sophisticated service for managing token vesting schedules, supporting complex vesting scenarios.
 
-## New Planned Features
+## New planned features
 
 # Transition to Proof of Stake (PoS) for Minting
 
 In alignment with our commitment to sustainability and scalability, future minting operations within the Despyke ecosystem will transition to a **Proof of Stake (PoS)** mechanism. This strategic move is guided by several core principles that align with our broader goals:
 
-## Energy Efficiency
+## Energy efficiency
 
 - **PoS significantly reduces energy consumption** compared to the traditional Proof of Work (PoW) mechanism, aligning with our strong commitment to sustainability and environmental responsibility.
 
-## Enhanced Scalability and Speed
+## Enhanced scalability and speed
 
 - PoS enables **faster transaction speeds and enhanced scalability**. This improvement directly impacts the overall efficiency of our minting services, making the process smoother for users and reducing transaction backlog during high-demand periods.
 
-## Security and Decentralization
+## Security and decentralization
 
 - A core principle of our transition to PoS is maintaining robust security mechanisms while also being conscious of avoiding centralization. We aim to foster **a more inclusive and secure network**, ensuring that our platform remains resilient against attacks and equitable in participation opportunities.
 
-## Minting Service Impact
+## Minting service impact
 
 - The transition to PoS is expected to **provide a smoother experience for our minting services**, thanks to faster transaction processing times and more cost-effective transactions. This change will benefit users by improving the responsiveness and accessibility of our services.
 
 We believe that transitioning to a Proof of Stake mechanism for future minting operations not only aligns with our commitment to sustainability and scalability but also sets a new standard for responsible blockchain development. Stay tuned for further updates as we make progress on this exciting transition.
 
-### Enhanced Security Features
+### Enhanced security features
 
 - **ERC20Pausable**: Introduces the ability to pause and unpause token transfers, enhancing security and control in response to unforeseen circumstances.
 - **ERC20Burnable**: Allows tokens to be "burned," reducing the overall supply and adding a deflationary mechanism to the token economics.
 
-### Immutable Consent Logs
+### Immutable consent logs
 
 - Transparently and immutably records every consent action by a user, with a timestamp for data integrity and non-repudiation.
 
-### Anonymity and Privacy
+### Anonymity and privacy
 
 - Utilizes Ethereum addresses as anonymized IDs, maintaining user privacy while ensuring traceability and accountability of consents.
 
-### Regulatory Compliance
+### Regulatory compliance
 
 - Designed with adaptability in mind to comply with global privacy laws and regulations, including GDPR, reinforcing our commitment to user rights and privacy.
 
-### Integration with Despyke Ecosystem
+### Integration with Despyke ecosystem
 
 - Seamlessly integrates with Despyke's broader ecosystem, including a token rewards system that aligns user consent for data sharing with token distribution and rewards.
 
-## Getting Started
+## Getting started
 
 ### Prerequisites
 
@@ -86,37 +86,37 @@ Ensure you have [Node.js](https://nodejs.org/) (>=12.x) installed on your system
 
 Here are some key commands to interact with the project:
 
-- **View Hardhat Tasks**: List all available tasks.
+- **View Hardhat tasks**: List all available tasks.
 
     ```shell
     yarn hardhat help
     ```
 
-- **Run Tests**: Execute the test suite.
+- **Run tests**: Execute the test suite.
 
     ```shell
     yarn hardhat test
     ```
 
-- **Generate Gas Usage Report**: Requires `hardhat-gas-reporter`.
+- **Generate gas usage report**: Requires `hardhat-gas-reporter`.
 
     ```shell
     REPORT_GAS=true yarn hardhat test
     ```
 
-- **Start Local Ethereum Node**: For development and testing.
+- **Start local Ethereum node**: For development and testing.
 
     ```shell
     yarn hardhat node
     ```
 
-- **Deploy Contracts**: Using Hardhat Ignition.
+- **Deploy contracts**: Using Hardhat Ignition.
 
     ```shell
     yarn hardhat ignition deploy ./ignition/modules/SpykeToken.ts
     ```
 
-## Coding Standards
+## Coding standards
 
 Our project adheres to the [Ethereum Foundation's Solidity Style Guide](https://docs.soliditylang.org/en/v0.8.11/style-guide.html). We expect all contributors to follow these guidelines to maintain code consistency and quality across the Despyke ecosystem.
 
